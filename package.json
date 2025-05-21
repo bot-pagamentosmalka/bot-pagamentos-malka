@@ -1,0 +1,13 @@
+
+{
+  "name": "bot-pagamentos-malka",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mercadopago": "^1.0.6",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
